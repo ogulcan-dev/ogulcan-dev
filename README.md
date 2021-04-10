@@ -1,7 +1,6 @@
-Ben Kimim/Who Am I
+Ben Kimim
 ===================
 
-**TÜRKÇE**
 
  Merhaba, Ben Oğulcan 16 Yaşındayım. Yaklaşık 1 Sene Önce Altyapı Editleyerek Başladığım Bu Serüvene Şuan Full Stack Web Developing Öğrencisi Olarak Devam Ediyorum.
  Buralara Gelmemin Bence Tek Sebebi Azimli Şekilde Devam Etmem/Pes Etmemem. 
