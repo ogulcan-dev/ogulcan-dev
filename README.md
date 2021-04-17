@@ -2,7 +2,7 @@ Ben Kimim
 ===================
 ![Axioma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axioma04&show_icons=true&theme=radical)
 
- Merhaba, Ben Oğulcan 16 Yaşındayım. Yaklaşık 1 Sene Önce Altyapı Editleyerek Başladığım Bu Serüvene Şuan Full Stack Web Developing Öğrencisi Olarak Devam Ediyorum. 
+ Merhaba, Ben Oğulcan İnsanlar Beni Genellikle "Axioma" Diye Tanırlar. Yaklaşık 1 Sene Önce Altyapı Editleyerek Başladığım Bu Serüvene Şuan Full Stack Web Developing Öğrencisi Olarak Devam Ediyorum. 
  Aynı Zamanda Lua Diline Hakimim.
  Buralara Gelmemin Bence Tek Sebebi Azimli Şekilde Devam Etmem/Pes Etmemem. 
 
