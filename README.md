@@ -8,4 +8,4 @@ Ben Kimim
 
  Kod yazarken En Çok Discord.js Kütüphanesini Kullanıyorum, Aynı Zamanda Public Sunucular İçin Bot Yapıyorum. Eğer Sizde Bana Sunucunuz İçin Bot Yaptırmak İstiyorsanız 
 # Discord Sunucum: https://discord.gg/sM4uhBZ8hA
-[![Axioma's github stats](https://github-readme-stats.vercel.app/api?username=Axioma04)]
+[Axioma's github stats](https://github-readme-stats.vercel.app/api?username=Axioma04)
