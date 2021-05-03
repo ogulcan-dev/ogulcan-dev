@@ -9,5 +9,5 @@ Ben Kimim
  Buralara Gelmemin Bence Tek Sebebi Azimli Şekilde Devam Etmem/Pes Etmemem. 
 
  Kod yazarken En Çok Discord.js Kütüphanesini Kullanıyorum, Aynı Zamanda Public Sunucular İçin Bot Yapıyorum. Eğer Sizde Bana Sunucunuz İçin Bot Yaptırmak İstiyorsanız 
-# [Discord Sunucum](https://discord.gg/emyrX3TRQX)
+# [Website Adresim](https://axiomadev.xyz)
 
