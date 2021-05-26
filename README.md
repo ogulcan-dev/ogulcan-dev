@@ -8,6 +8,5 @@ Ben Kimim
  Aynı Zamanda Lua Diline Hakimim.
  Buralara Gelmemin Bence Tek Sebebi Azimli Şekilde Devam Etmem/Pes Etmemem. 
 
- Kod yazarken En Çok Discord.js Kütüphanesini Kullanıyorum, Aynı Zamanda Public Sunucular İçin Bot Yapıyorum. Eğer Sizde Bana Sunucunuz İçin Bot Yaptırmak İstiyorsanız 
-# [Website Adresim](https://axiomadev.xyz)
+# [Website Adresim](http://axiomadev.xyz)
 
