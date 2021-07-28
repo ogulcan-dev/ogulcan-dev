@@ -4,9 +4,9 @@
 Ben Kimim
 ===================
 
- Merhaba, Ben Oğulcan İnsanlar Beni Genellikle "Axioma" Diye Tanırlar. Yaklaşık 1 Sene Önce Altyapı Editleyerek Başladığım Bu Serüvene Şuan Full Stack Web Developing Öğrencisi Olarak Devam Ediyorum. 
- Aynı Zamanda Lua Diline Hakimim.
- Buralara Gelmemin Bence Tek Sebebi Azimli Şekilde Devam Etmem/Pes Etmemem. 
+ Hello, I'm Ogulcan. People usually know me as "Axioma" online. I am continuing the adventure that I started 1.5 years ago by developing Discord Bots as a frontend student.
+At the same time, I write scripts using lua language on the game platform called MTA.
+There is also a minecraft faction server that I am admin.
 
-# [Website Adresim](http://axiomadev.xyz)
+# [My Minecraft Server](https://discord.gg/zsF2SDqkyh)
 
