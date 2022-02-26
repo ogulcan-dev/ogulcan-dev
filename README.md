@@ -14,4 +14,7 @@ Link's
 [My Minecraft Server](https://stormnw.pw) | [My Discord Account](https://discord.com/users/418081929980674070)
 
 
+
+
+
 ![Axioma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axioma04&show_icons=true&theme=radical)
