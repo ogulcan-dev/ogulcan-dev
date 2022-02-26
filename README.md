@@ -1,9 +1,17 @@
+Who Am I?
+===============
+
+Hello, I'm Ogulcan. I'm a casual javascript developer and a beginner python developer. Soon I will share my python and javascript projects in this account.
+
+Languages I know
+===============
+- Javascript
+- Python
+- Java(%10)
+
+Link's
+===============
+[My Minecraft Server](https://stormnw.pw) [My Discord Account](https://discord.com/users/418081929980674070)
+
+
 ![Axioma's GitHub stats](https://github-readme-stats.vercel.app/api?username=Axioma04&show_icons=true&theme=radical)
-
-
-Ben Kimim
-===================
-
-Merhaba, ben Oğulcan(A.K.A: Axioma) 2 Senedir discord bot geliştiriciliği yapıyorum ve 6 aydır sunuculara özel  botlar yapıyorum. 
-
-Eğer sizde sunucunuza özel bot yaptırmak istiyorsanız [Discord Hesabım](https://discord.com/users/867654842028392448)
