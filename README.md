@@ -17,3 +17,4 @@ Skills: Javascript, Python(%40), Java(%10), Typescript
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31kayuocslfqyumyc6szzc4do6p4?si=60061c7680ee4da5)  
 
  
+[![Discord Presence](https://lanyard.cnrad.dev/api/418081929980674070)](https://discord.com/users/418081929980674070)
