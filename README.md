@@ -4,7 +4,7 @@ My name is Oğulcan
 
 During the pandemic period, I became interested in software business. I made a lot of mistakes, I researched and corrected these mistakes and got enough information. In this account, I will share projects that may be useful to you.
 
-Skills: Javascript, Python(%40), Java(%10), Typescript
+Skills: Javascript, Python(%60), Java(%10), Typescript
 
 - 🔭 I’m currently working on Storm Network(Minecraft server) 
 - 🌱 I’m currently learning HTML, CSS, PHP, VUEJS, REACTJS 
