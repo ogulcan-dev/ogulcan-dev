@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on new discord bot.
 
-- 🌱 I’m currently learning **kotlin**
+- 🌱 I’m currently learning **HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
