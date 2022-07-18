@@ -6,13 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on new discord bot.
-
 - 🌱 I’m currently learning **HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **OpenSource Projects**
 
-- 📫 How to reach me **ogulcanozturk72@gmail.com**
+- 📫 How to reach me **@axiomacim**
 
 - ⚡ Fun fact: **I cannot avoid my self from coding, so yeah. No other stuff.**
 
