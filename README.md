@@ -4,6 +4,11 @@
 <h3 align="center">I'm a half back-end developer from Turkey.</h3>
 
 
+## ❤ Views and Followers
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=TheAxioma">
+</a>
+
 ## 🙋‍♂️ About Me
 
 - 🌱 I’m currently learning **HTML5 and CSS3**
@@ -59,8 +64,4 @@
 
 </p>
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Axioma04">
-</a>
-<a href="https://github.com/SubhamRaoniar28?tab=followers"><img src="https://img.shields.io/github/followers/Axioma04?label=Followers&style=social" alt="GitHub Badge"></a>
+
