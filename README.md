@@ -38,5 +38,5 @@
 </p>
 
 ### Contact
-- İnstagram: [@Satukecim](https://instagram.com/axiomacim)
-- Discord [Satuke](https://discord.com/users/418081929980674070)
+- İnstagram: [@Axiomacim](https://instagram.com/axiomacim)
+- Discord [Axioma](https://discord.com/users/418081929980674070)
