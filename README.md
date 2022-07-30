@@ -51,4 +51,4 @@
 
 ### Contact
 - İnstagram: [@Axiomacim](https://instagram.com/axiomacim)
--![https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white](discord.com/users/418081929980674070)
+-![https://discord.com/user/418081929980674070](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
