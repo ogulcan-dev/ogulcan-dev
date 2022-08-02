@@ -1,6 +1,7 @@
 <h2 align="center">Hello, Im Axioma 👋</h2>
-## I'm Currently working for [ValachiMTA](https://github.com/valachimta) project
 </p>
+
+## I'm Currently working for [ValachiMTA](https://github.com/valachimta) project
 
 ![](https://komarev.com/ghpvc/?username=TheAxioma)
 ![GitHub followers](https://img.shields.io/github/followers/TheAxioma?style=social)
