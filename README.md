@@ -43,6 +43,8 @@
     <img src='https://github-readme-streak-stats.herokuapp.com/?user=TheAxioma&theme=omni&hide_border=true'>
 </p>
 
+
+
 <p align = 'center'>
     <img src='https://github-readme-stats.vercel.app/api?username=TheAxioma&count_private=true&include_all_commits=true&show_icons=true&theme=omni&hide_border=true&line_height=27'/>
     <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheAxioma&show_icons=true&hide=php,html,typescript,css,markdown,python&theme=omni&line_height=27&hide_border=true'/>
@@ -53,4 +55,6 @@
 
 ### Contact
 - İnstagram: [@Axiomacim](https://instagram.com/axiomacim)
-- Discord: [axioma#1080](https://discord.com/users/418081929980674070)
+
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/418081929980674070)](https://discord.com/users/418081929980674070)
