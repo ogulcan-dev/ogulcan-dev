@@ -19,6 +19,7 @@ I have been dealing with software for about 3 years. I will always continue to i
 <img src="https://img.shields.io/badge/Discord.Js%20-111111.svg?&style=for-the-badge&logo=Discord.Js&logoColor=white">
 <img src="https://img.shields.io/badge/HTML5%20-111111.svg?&style=for-the-badge&logo=HTML5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS%20-111111.svg?&style=for-the-badge&logo=CSS3&logoColor=white">
+<img src="https://img.shields.io/badge/DJANGO%20-111111.svg?&style=for-the-badge&logo=Django&logoColor=white">
 </div>
 
 
