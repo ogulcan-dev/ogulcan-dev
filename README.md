@@ -11,7 +11,7 @@ I have been dealing with software for about 3 years. I will always continue to i
 
 
 <div align="center">
-<h3>Languages and Tools</h3>
+<h3>Languages & Tools & Liblaries</h3>
 <a <img src="https://img.shields.io/badge/JavaScript%20-111111.svg?&style=for-the-badge&logo=JavaScript&logoColor=white"> </a>
 
 <img src="https://img.shields.io/badge/Node.js%20-111111.svg?&style=for-the-badge&logo=Node.js&logoColor=white">
