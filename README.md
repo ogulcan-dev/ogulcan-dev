@@ -2,8 +2,6 @@
   <img height="120" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
 
-###
-
 <h4 align="left">Hi, I'm Oğulcan 👋</h4>
 
 ###
@@ -58,7 +56,7 @@
 
 <div align="center">
   <a href="https://open.spotify.com/user/31kayuocslfqyumyc6szzc4do6p4">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?count=5&unique=false" alt="Spotify recently played"  />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31kayuocslfqyumyc6szzc4do6p4&count=5" alt="Spotify recently played"  />
   </a>
 </div>
 
