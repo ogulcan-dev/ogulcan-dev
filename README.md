@@ -7,7 +7,6 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Adonixfx&label=Profile%20views&color=1d1f20&style=flat-square" alt="Adonixfx" /> </p>
-<p align="left"> <a href="https://twitter.com/Adonixfx" target="blank"><img src="https://img.shields.io/twitter/follow/Adonixfx?logo=twitter&style=for-the-badge" alt="Adonixfx" /></a> </p>
 
 
 <img align="right" width="400px" src="https://user-images.githubusercontent.com/77089894/206934975-0e140d74-3d5e-4e2f-afde-c6e372e5274b.gif">
@@ -27,9 +26,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Adonixfx&show_icons=true&theme=dark&locale=en&layout=compact" alt="Adonixfx" /></p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=Adonixfx&show_icons=true&theme=dark&locale=en" alt="Adonixfx" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=adonixfx&show_icons=true&theme=dark&locale=en" alt="adonixfx" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Adonixfx&theme=dark" alt="Adonixfx" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=adonixfx&theme=dark" alt="adonixfx" /></p>
 
 </br>
 
