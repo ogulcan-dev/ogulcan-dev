@@ -13,6 +13,7 @@
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,django,docker,py,nextjs,mongodb,mysql,lua)](https://skillicons.dev)
 
 
+
 ###
 
 <div align="left">
@@ -25,6 +26,7 @@
 ###
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oğulcanö/)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/1047222762638422137)
 
 ###
 
