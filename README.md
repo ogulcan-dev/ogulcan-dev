@@ -27,6 +27,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oğulcanö/)
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://www.discord.com/users/1047222762638422137)
+[![My Skills](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/ogulcanztrk)
 
 ###
 
