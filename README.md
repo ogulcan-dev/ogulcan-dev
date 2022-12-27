@@ -24,17 +24,7 @@
 
 ###
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/oğulcan-öztürk-06179b228/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/1047222762638422137" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://instagram.com/ogulcanztrk" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/oğulcanö/)
 
 ###
 
