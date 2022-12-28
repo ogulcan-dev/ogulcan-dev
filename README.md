@@ -47,7 +47,6 @@
 ###
 
 
-
 ###
 
 <img src="https://raw.githubusercontent.com/Adonisfx/Adonisfx/blob/output/snake.svg" alt="Snake animation" />
