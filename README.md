@@ -83,7 +83,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/ogulcan-dev/ogulcan-dev/blob/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/ogulcan-dev/ogulcan-dev/blob/output/snake.svg" alt="Snake animation" />
 
 ###
 
