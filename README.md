@@ -35,7 +35,8 @@
 ![My Skills](https://skillicons.dev/icons?i=mysql,mongodb,firebase)
 <img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height=50>
 
+ <h2 align="center">İstatistiklerim </h2>
+
 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogulcan-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true"/> 
-<img height="110em" src="https://user-images.githubusercontent.com/74311713/129813126-5c620ff2-cc3b-47a2-b419-974708ceb5fe.png"/>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcan-dev&layout=compact&langs_count=16&theme=react"/>   
