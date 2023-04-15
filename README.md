@@ -19,8 +19,7 @@
 <p align="left"></p>
 
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,go,bash,json,yaml,postgresql,)]
-(https://github.com/ogulcan-dev)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,go,bash,json,mysql)](https://github.com/ogulcan-dev)
 
 
 <p align="left">Contact me:</p>
