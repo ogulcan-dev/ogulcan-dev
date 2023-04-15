@@ -1,3 +1,7 @@
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ogulcan-dev&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
+
+
 <div align="right">
   <img height="100" src="https://i.imgflip.com/65efzo.gif"  />
 </div>
@@ -10,9 +14,11 @@
 
 <p align="left"></p>
 
+
+
 ###
 
-<p align="left">I am Oğulcan, a 16-year-old back-end developer. I have been interested in programming since I was 14. In my free time, I usually write code and hang out with my friends. Nice to meet you! :)</p>
+<p align="left">I am Oğulcan, a 16-year-old back-end developer. I have been interested in programming since I was 13. In my free time, I usually write code and hang out with my friends. Nice to meet you! :)</p>
 
 
 
