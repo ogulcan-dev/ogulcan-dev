@@ -21,7 +21,7 @@
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=nuxt,next,django,express&theme=darkmode&includeNames=true)](https://github.com/ogulcan-dev)
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,firebase,mongodb,vercel,nodejs,heroku,aws,mysql,vscode,ubuntu,windows&theme=darkmode&includeNames=true)](https://github.com/ogulcan-dev)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,docker,npm,yarn,firebase,mongodb,vercel,nodejs,heroku,aws,mysql,vscode,linux,windows&theme=darkmode&includeNames=true)](https://github.com/ogulcan-dev)
 
 
 
