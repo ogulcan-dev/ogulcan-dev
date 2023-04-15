@@ -14,9 +14,7 @@
 
 <p align="left">I am Oğulcan, a 16-year-old back-end developer. I have been interested in programming since I was 14. In my free time, I usually write code and hang out with my friends. Nice to meet you! :)</p>
 
-###
 
-<p align="left"></p>
 
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?languages=js,ts,python,go,bash,json,mysql)](https://github.com/ogulcan-dev)
