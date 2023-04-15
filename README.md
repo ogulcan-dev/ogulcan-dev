@@ -10,7 +10,6 @@
 - :computer:Yazılıma Arduino üzerinde küçük projeler yaparak başladım, ardından bir abimin tavsiyesi üzerine web geliştirme alanına geçiş yaptım ve orda projelerimi geliştirmeye devam ettim.
 
 - 📫 Bana ulaşmak isterseniz **ogulcanozturk72@gmail.com** adresini kullanabilirsiniz. 
-- 
 
 <h1 align="center"> 💻Yazılım Geliştirici</h1>
 <p align="center">
