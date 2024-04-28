@@ -6,7 +6,7 @@
 <br/>
 
 ### Kimdir Bu Oğulcan?
-- :computer:Yaklaşık olarak üç yıldır yazılımla ilgileniyorum. 16 Yaşındayım ve aktif olarak bir çok projede de Back-End Developer olarak faaliyet göstermekteyim.
+- :computer:Yaklaşık olarak üç yıldır yazılımla ilgileniyorum. 17 Yaşındayım ve aktif olarak Focusify da Back-End Developer olarak faaliyet göstermekteyim.
 - :computer:Yazılıma Arduino üzerinde küçük projeler yaparak başladım, ardından bir abimin tavsiyesi üzerine web geliştirme alanına geçiş yaptım ve orda projelerimi geliştirmeye devam ettim.
 
 - 📫 Bana ulaşmak isterseniz **ogulcanozturk72@gmail.com** adresini kullanabilirsiniz. 
