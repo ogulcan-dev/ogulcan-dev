@@ -9,13 +9,9 @@
 - :computer: I have been interested in software for about three years. I am 17 years old and I am a web developer.
 
 - 📫 If you want to reach me, you can use one of the social media accounts below. 
- 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ogulcan-dev&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
  
- [![ github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ogulcan-dev&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </div>
-
-
 
 
  <h2 align="center">My Social Media Accounts </h2>
