@@ -14,7 +14,7 @@
 <h2 align="center">Software Languages & Frameworks</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html5,css3,js,ts,py,nodejs,nextjs,react,django" alt="My Skills">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,nextjs,react,django" alt="My Skills">
 </p>
 
 ---
