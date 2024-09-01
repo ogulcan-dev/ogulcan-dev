@@ -1,54 +1,80 @@
-[![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Merhaba%20👋%20Ben%20Oğulcan%20Öztürk&width=1200&height=300)](https://github.com/ogulcan-dev)
+<h1 align="left">Hey 👋 What's up?</h1>
 
-<a target="_blank"><img align="right" height="400" width="400" alt="GitHub GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/github.gif"></a>
+###
 
-### Who am I?
-- 💻 I have been interested in software for about three years. I am 17 years old and I am a web developer.
+<br clear="both">
 
-- 📫 If you want to reach me, you can use one of the social media accounts below.
+<h4 align="left">My name is Oğulcan and I'm a Young Software Developer  from Turkey</h4>
 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=ogulcan-dev&data=followers,repositories,commits&theme=nautilus)](https://github.com/Jurredr/github-widgetbox)
+###
 
----
+<h2 align="left">About me</h2>
 
-<h2 align="center">Software Languages & Frameworks</h2>
+###
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,py,nodejs,nextjs,react,django,ts" alt="My Skills">
-</p>
+<p align="left">Greetings, I'm Oğulcan. I'm a 17 years old young software developer. I started developing small arduino projects at the age of 14 and now I'm working as a Back-End Web Developer. In my free time, apart from writing code, I play basketball.</p>
 
----
+###
 
-<h2 align="center">Database</h2>
+<h2 align="left">Software Languages & Tools I Use</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase,prisma" alt="Database Skills">
-</p>
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/75336900/214643444-15a6b822-2439-45e0-8cfb-d74c95f1dfc6.png" height="50" alt="Database Icon">
-</p>
+###
 
----
+<div align="left">
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/react/61DAFB" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
 
-<h2 align="center">My GitHub Stats</h2>
+###
 
-<p align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ogulcan-dev&show_icons=true&theme=react&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcan-dev&layout=compact&langs_count=16&theme=react" alt="Top Languages">
-</p>
+<h2 align="left">Get In Touch With Me</h2>
 
----
+###
 
-<h2 align="center">Let's Connect!</h2>
-
-<p align="center">
-  <a href="mailto:ogulcanozturk72@gmail.com">
-    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+<div align="left">
+  <a href="https://www.linkedin.com/in/ogulcano/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://www.linkedin.com/in/o%C4%9Fulcan%C3%B6//" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  <a href="https://discord.com/1265736611048591371" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
-  <a href="https://instagram.com/ogulcanztrk" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
+  <a href="mailto:ogulcanozturk72@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</p>
+</div>
+
+###
+
+<p align="left"></p>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ogulcan-dev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=ogulcan-dev&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
