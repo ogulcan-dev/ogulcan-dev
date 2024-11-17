@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">Greetings, I'm Oğulcan. I'm a 17 years old young software developer. I started developing small arduino projects at the age of 14 and now I'm working as a Back-End Web Developer. In my free time, apart from writing code, I play basketball.</p>
+<p align="left">Greetings, I'm Oğulcan. I'm a 17 years old young software developer. I started developing small arduino projects at the age of 14 and now I'm working as a Full Stack Web Developer. In my free time, apart from writing code, I play basketball.</p>
 
 ###
 
@@ -57,9 +57,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/ogulcano/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/1265736611048591371" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
   <a href="mailto:ogulcanozturk72@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
