@@ -6,54 +6,33 @@
 
 <h3 align="center">I'm a Fullstack Web Developer 🚀</h3>
 
-##
-
+<div align="center">
+  
 ### 👨‍💻 About Me
 
-- 🌱 Currently working with **Next.js**, **React** and **TypeScript**
-- 💼 Specializing in web development projects
-- 🏀 I enjoy playing basketball in my free time
-- 💡 Always open to learning new technologies
+<p>
+🌱 Currently working with <b>Next.js</b>, <b>React</b> and <b>TypeScript</b> &nbsp;|&nbsp;
+💼 Specializing in web development projects &nbsp;|&nbsp;
+🏀 I enjoy playing basketball in my free time &nbsp;|&nbsp;
+💡 Always open to learning new technologies
+</p>
 
-##
+</div>
 
 ### 🛠️ Technologies and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase,prisma" />
-  <br />
-  <img src="https://skillicons.dev/icons?i=git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,firebase,prisma,git,vscode,figma" />
 </div>
-
-##
 
 ### 📊 GitHub Statistics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogulcan-dev&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=ogulcan-dev&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcan-dev&theme=tokyonight" width="45%" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcan-dev&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ogulcan-dev&theme=tokyonight&column=4&margin-w=15&margin-h=15" width="45%" alt="GitHub Trophies" />
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcan-dev&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcan-dev&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
-##
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ogulcan-dev&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
-##
 
 ### 📫 Contact Me
 
@@ -65,8 +44,6 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
 </div>
-
-##
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ogulcan-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
