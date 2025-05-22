@@ -6,6 +6,10 @@
 
 <h3 align="center">I'm a Fullstack Web Developer 🚀</h3>
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Always+learning+new+technologies;Passionate+about+clean+code" alt="Typing SVG" />
+</p>
+
 <div align="center">
   
 ### 👨‍💻 About Me
@@ -27,11 +31,25 @@
 
 ### 📊 GitHub Statistics
 
-<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=ogulcan-dev&show_icons=true&theme=tokyonight" width="45%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcan-dev&theme=tokyonight" width="45%" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcan-dev&layout=compact&theme=tokyonight" width="45%" alt="Top Languages" />
-  <img src="https://github-profile-trophy.vercel.app/?username=ogulcan-dev&theme=tokyonight&column=4&margin-w=15&margin-h=15" width="45%" alt="GitHub Trophies" />
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ogulcan-dev&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=ogulcan-dev&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogulcan-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+      </td>
+      <td>
+        <img src="https://github-profile-trophy.vercel.app/?username=ogulcan-dev&theme=tokyonight&column=3&row=2&margin-w=15&margin-h=15&no-bg=true&no-frame=true" alt="GitHub Trophies" />
+      </td>
+    </tr>
+  </table>
 </div>
 
 ### 📫 Contact Me
@@ -45,6 +63,12 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ogulcan-dev&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ogulcan-dev&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
