@@ -26,7 +26,7 @@
 ### 🛠️ Technologies and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,firebase,prisma,git,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mongodb,mysql,firebase,prisma,git,vscode,figma,cursor" />
 </div>
 
 ### 📊 GitHub Statistics
