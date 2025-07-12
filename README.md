@@ -4,7 +4,7 @@
   <img src="https://media.giphy.com/media/CuuSHzuc0O166MRfjt/giphy.gif" width="300" alt="coding animation"/>
 </div>
 
-<h3 align="center">I'm a Fullstack Web Developer 🚀</h3>
+<h3 align="center">I'm a JR. Web Developer 🚀</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A5ACD&center=true&vCenter=true&width=435&lines=Building+modern+web+applications;Always+learning+new+technologies;Passionate+about+clean+code" alt="Typing SVG" />
