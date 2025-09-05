@@ -18,7 +18,8 @@
 🌱 Currently working with <b>Next.js</b>, <b>React</b> and <b>Javascript</b> &nbsp;|&nbsp;
 💼 Specializing in web development projects &nbsp;|&nbsp;
 🏀 I enjoy playing basketball in my free time &nbsp;|&nbsp;
-💡 Always open to learning new technologies
+💡 Always open to learning new technologies &nbsp;|&nbsp;
+🎓 I'm studying Computer Engineering at Istanbul Aydin University
 </p>
 
 </div>
